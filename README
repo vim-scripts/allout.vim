@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=871
+
+Allout files are a handy synoptic (or tree-like) representation of a document.  Such files were originally introduced as a GNU Emacs mode.  Vim offers tools and help for browsing or editing these Allout files.
+
+Once installed, syntax colouring of Allout files should work in standard Vim.  Allout specific commands and mappings require a Python-enabled Vim.
+
